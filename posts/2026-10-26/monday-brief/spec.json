@@ -1,0 +1,104 @@
+{
+ "source": "",
+ "slides": [
+  {
+   "type": "hook",
+   "kicker": "Monday Trades Brief · Oct 26, 2026",
+   "title": "Data center money and a $4B Audi plant",
+   "sub": "4 stories that matter to the trades, plus what to watch this week"
+  },
+  {
+   "type": "item",
+   "n": 1,
+   "name": "Data center spending",
+   "line": "Bank of America forecast, reported by Reuters",
+   "stats": [
+    {
+     "v": "$1T+",
+     "k": "spending in 2026"
+    },
+    {
+     "v": "$2.1T",
+     "k": "spending by 2028"
+    }
+   ],
+   "catchLabel": "The catch",
+   "catch": "Most of the money goes to servers, and most of the trade work is construction that ends when the build wraps."
+  },
+  {
+   "type": "item",
+   "n": 2,
+   "name": "Audi picks Georgia",
+   "line": "First US plant, in Peach County. Reported by WGXA.",
+   "stats": [
+    {
+     "v": "$4B",
+     "k": "investment"
+    },
+    {
+     "v": "~4,500",
+     "k": "jobs"
+    }
+   ],
+   "catchLabel": "The timeline",
+   "catch": "Site grading in 2027, construction in 2028, full production in 2031."
+  },
+  {
+   "type": "item",
+   "n": 3,
+   "name": "Hyundai Translead",
+   "line": "Will County, Illinois. Reported by FreightWaves.",
+   "stats": [
+    {
+     "v": "$600M",
+     "k": "investment"
+    },
+    {
+     "v": "3,750",
+     "k": "full-time jobs"
+    }
+   ],
+   "catchLabel": "Our take",
+   "catch": "Builders first, then maintenance techs, industrial electricians and millwrights."
+  },
+  {
+   "type": "item",
+   "n": 4,
+   "name": "Carrier in Fort Worth",
+   "line": "Texas plant. Reported by FreightWaves.",
+   "stats": [
+    {
+     "v": "$600M+",
+     "k": "investment"
+    },
+    {
+     "v": "1,500",
+     "k": "jobs"
+    }
+   ],
+   "catchLabel": "Also announced",
+   "catch": "Blue Bird: about $300 million and 375 jobs in Fort Valley, Georgia."
+  },
+  {
+   "type": "item",
+   "n": 5,
+   "name": "US-Denmark shipbuilding deal",
+   "line": "Signed Oct. 22. Reported by FreightWaves.",
+   "catchLabel": "Our take",
+   "catch": "It covers shipyard training and ship repair, but names no shipyards or job counts yet. Watch for real projects before you move."
+  },
+  {
+   "type": "item",
+   "name": "What to watch this week",
+   "line": "Tue: new home sales. Wed: Fed rate decision. Fri: Employment Cost Index.",
+   "catchLabel": "Early next week",
+   "catch": "Mon, Nov. 2: construction spending. Tue, Nov. 3: JOLTS job openings."
+  },
+  {
+   "type": "cta",
+   "title": "Read the full brief",
+   "sub": "Plus jobs hiring now, from electricians to superintendents.",
+   "url": "Link in bio"
+  }
+ ]
+}
