@@ -2,3 +2,7 @@
 
 - `template/make-carousel.js` renders 1080x1350 carousel slides with the TradeJobs.us logos and brand styles. Usage: `npm i @fontsource/montserrat@5.3.0 && node template/make-carousel.js spec.json outdir`
 - `posts/<date>/<slug>/` holds each published carousel (spec, slides). Images here are linked publicly for scheduling in Buffer.
+
+## Daily posting (3 a day, image posts only)
+Slot 1 morning: guide carousel (or news carousel when a new recap is out). Slot 2 midday: one-stat image or versus carousel. Slot 3 evening: jobs-hiring carousel.
+Every caption includes tradejobs.us. Last slide button says "Link in bio". posts/log.csv tracks what was used.
