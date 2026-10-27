@@ -1,0 +1,6 @@
+{"source":"TDLR","slides":[
+{"type":"hook","kicker":"How to get licensed","title":"Texas electrician license","sub":"Per the TDLR, in 3 steps"},
+{"type":"item","n":1,"name":"Get the apprentice license","line":"Get this one first","stats":[{"v":"$20","k":"apprentice license"}],"catch":"It opens your official TDLR hour record.","catchLabel":"Why first"},
+{"type":"item","n":2,"name":"Log your on-the-job hours","line":"Hours are verified, under a master electrician","stats":[{"v":"8,000","k":"hours before the exam"}],"catch":"You need them before you can sit the journeyman exam.","catchLabel":"The rule"},
+{"type":"item","n":3,"name":"Aim for the master license","line":"The master license needs 12,000 hours","stats":[{"v":"12,000","k":"hours for master"}],"catch":"It also needs two years holding a journeyman license.","catchLabel":"The catch"},
+{"type":"cta","title":"Not in Texas?","sub":"See electrician license rules for your state.","url":"Link in bio"}]}
